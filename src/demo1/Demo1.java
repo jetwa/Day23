@@ -17,7 +17,6 @@ public class Demo1 {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-
 	}
 
 	public String getJsonText(String url) throws IOException {
